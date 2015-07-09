@@ -1,0 +1,4 @@
+x_team_slack_messanger:
+    resource: "@XTeamSlackMessengerBundle/Resources/config/routing.yml"
+    prefix:   /
+

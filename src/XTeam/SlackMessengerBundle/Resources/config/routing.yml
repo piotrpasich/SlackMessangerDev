@@ -1,0 +1,3 @@
+x_team_slack_messanger_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: XTeamSlackMessengerBundle:Default:index }
